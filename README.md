@@ -1,4 +1,4 @@
-This CLI converts iTunes xml library data into m3u8 playlists. Supports relative paths.
+Converts iTunes xml library data into m3u8 playlists with a single commands. Supports relative paths.
 
 Usage example:
 
